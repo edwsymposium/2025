@@ -69,7 +69,7 @@ footer.innerHTML = `  <div class="container">
       href="https://theotherfoundation.org/" target="_blank" rel="noopener noreferrer" 
       class="logo d-flex align-items-center justify-content-center justify-content-lg-end mb-2"
     >
-      <span class="sitename">The Other Foudation</span>
+      <span class="sitename">The Other Foundation</span>
     </a>
     <div class="footer-contact pt-2 text-center text-lg-end">
       <p>36 Bath Avenue,</p>
