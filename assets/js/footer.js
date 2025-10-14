@@ -7,7 +7,7 @@ footer.innerHTML = `  <div class="container">
 <div class="row justify-content-between align-items-start">
   <!-- Left -->
   <div
-    class="col-lg-4 col-12 mb-4 footer-about text-center text-lg-start"
+    class="col-lg-4 col-12 mb-4 mt-4 footer-about text-center text-lg-start"
   >
     <a
       href="https://youngqueeralliance.com/" target="_blank" rel="noopener noreferrer" 
@@ -37,6 +37,7 @@ footer.innerHTML = `  <div class="container">
   <div
     class="col-lg-4 col-12 mb-4 footer-about text-center text-lg-center"
   >
+  <p>Hosted By:</p> 
   <a
   href="https://middlesex.mu"
   class="logo d-flex align-items-center justify-content-center justify-content-lg-end mb-2"
@@ -63,7 +64,7 @@ footer.innerHTML = `  <div class="container">
 
   <!-- Right -->
   <div
-    class="col-lg-4 col-12 mb-4 footer-about text-center text-lg-end"
+    class="col-lg-4 col-12 mb-4 mt-4 footer-about text-center text-lg-end"
   >
     <a
       href="https://theotherfoundation.org/" target="_blank" rel="noopener noreferrer" 
